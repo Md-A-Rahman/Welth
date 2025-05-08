@@ -1,4 +1,4 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 
+# Full Stack AI Fianace Platform with Node JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 
 
 
 Made with love by Abdul Rahman
